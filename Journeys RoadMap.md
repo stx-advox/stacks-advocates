@@ -2,7 +2,7 @@ Journeys Roadmap
 
 Please listen [here](https://www.youtube.com/watch?v=qvfWp25NQYU) for detailed description of **_Journeys_**
 
-Below a is brief oversimplified roadmap including a template for beginning Journeys as a Advox member via a discord post and corresponding policykit driven flows. 
+Below a is brief oversimplified roadmap including a template for beginning Journeys as a Advox member via a discord post and corresponding policykit driven flows. After formation of our Journeys working group we will be sure to add dates here too. 
 
 - Template:
     - Let’s ensure horizontal system design is built into the edges of our Advocates community as it is at the core of our Advox design i.e
