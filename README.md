@@ -1,4 +1,5 @@
 # Stacks Advocates Program
+Archived readme: this program has been replaced by the [Advocates DAO](https://github.com/stx-advox) which is primarily active on the [Stacks Discord](https://discord.com/invite/zrvWsQC).
 
 Become a leader of the user-owned internet!
 
