@@ -1,5 +1,5 @@
 # Stacks Advocates Program
-Archived readme: this program has been replaced by the [Advocates DAO](https://github.com/stx-advox) which is primarily active on the [Stacks Discord](https://discord.com/invite/zrvWsQC).
+[Stacks Discord](https://discord.com/invite/zrvWsQC)
 
 ### What is the Stacks Advocates Program?
 
@@ -14,3 +14,26 @@ The focus of the Advocates is long term sustainability of innovation and growth 
 ### Who is it for?
 
 The Advocates program is made up of long time community members, passionate contributors to Stacks and newcomers to the ecosystem looking to find what they’re most passionate about in the ecosystem.
+
+###  🤝 Join
+
+
+
+
+###  🔍 Explore
+
+## Dework Board
+
+
+
+
+
+### ➕ Contribute
+
+## Community Track
+
+
+
+
+
+## Build Track
