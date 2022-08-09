@@ -1,7 +1,8 @@
 # Stacks Advocates Program
 [Stacks Discord](https://discord.com/invite/zrvWsQC)
 
-![clansbanner](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/Clans.jpg)
+![Clans.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/Clans.jpg?raw=true)
+
 ### What is the Stacks Advocates Program?
 
 The Advocates program is made up of long time community members, passionate contributors to Stacks and newcomers to the ecosystem. Contributors of various backgrounds can make their efforts visible in our Advocates channels right inside the Stacks discord server. Every week we distribute the rewards from a community stacking pool based on the collective evaluation of contributions via [SourceCred](https://sourcecred.io/docs). We also have a DAO governance design complete with tooling for decision making right inside our discord server.
