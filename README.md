@@ -51,3 +51,9 @@ The Advocates program is made up of long time community members, passionate cont
 ![docstranslationbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationbuild.jpg?raw=true)  ![stackingbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingbuild.jpg?raw=true)  ![grantsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantsbuild.jpg?raw=true)  ![web3govbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govbuild.jpg?raw=true)
 
 [Translation Build](https://crowdin.com/project/docsstacksco) [Stacking Build](https://www.stacks.co/blog-categories/stacking?ref=stacksblog)  [Grants Build](https://grants.stacks.org)  [Web3Gov Build](https://github.com/stacksgov/pm/issues/129)
+
+
+
+## AdvoxLEARN
+### [Clan Traits & Roles](https://github.com/stx-advox/stacks-advocates/blob/main/pages/AdvoxLearn/ClanTraits%26Roles.md)
+### [Consensus Tools](https://github.com/stx-advox/stacks-advocates/blob/main/pages/AdvoxLearn/consensustools.md)
