@@ -93,15 +93,15 @@ use of the #active-issues channel
 
 **Preliminary Consensus**
 
-0 | Picking up issues**
+0 | Picking up issues
 
 Female & Male Wolf representatives or the Wolf sub-representatives pick up issues **deemed relevant** in broader Stacks ecosystem or AdvoxDAO. Particularly issues that are picking up steam in dialogue from multiple parties in the channels.
 
-1 | Autonomous Clan Facilitation**
+1 | Autonomous Clan Facilitation
 
 First, Wolf clan reps tag other clans as needed to tend to the issue. All three clans use the #active-issues channels as needed to deliberate the issue, each using autonomous processes. The bottom up quorum period of participation will need to be decided for consensus; real-time meetings for time zones and schedules will need to be initiated where possible or thread dialogue when not possible.
 
-2 | Autonomous Clan Prelims**
+2 | Autonomous Clan Prelims
 
 Two representatives, one female and one male, from each of the 3 clans, come to consensus in autonomous processes before moving to formal consensus, where dialogue will converge. This is critical to sustainability. Through the long term, complex dynamics of our ecosystem, it is ensured that the autonomous voices of women & ecosystems are not drowned out.
 
@@ -121,7 +121,7 @@ use of the #formal-proposals channel
 
 ## Formal Consensus
 
-3 | Streamlining the Autonomous Processes in Formal Consensus**
+3 | Streamlining the Autonomous Processes in Formal Consensus
 
 While 9 times out of 10 all positions brought to the floor have already been covered in prelims to easily be made official; this is the first time the female and males are sitting together in decision making. And deliberation is still possible in this formal phase in the rare case it is needed. And here we see a streamlining of autonomous processes, not just between female and male decision making but also between human systems & ecosystems. This is evident in the physical lay out & flow of the formal phase:
 
