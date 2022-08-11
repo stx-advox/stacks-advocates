@@ -33,8 +33,8 @@ The Advocates program is made up of long time community members, passionate cont
 
 ###  🔍 Explore
 ## Community Track
-![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg)
+![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg?raw=true)
 ## Build Track
-![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg)
+![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg?raw=true)
 
 
