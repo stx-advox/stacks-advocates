@@ -28,13 +28,26 @@ The Advocates program is made up of long time community members, passionate cont
 - The props channel is where other advocates express gratitude for another community member for something they did, garnering an environment of mutual appreciation.
 - Active Issues is where you’ll find different community governance proposals to learn why the advocates program is the way it is now.
 
-### ➕ Contribute
-## Dework Board
+## ➕ Contribute
+### [Dework Board](https://app.dework.xyz/i/68xwGlKAFDpGeXSlAMN8rH)
 
-###  🔍 Explore
-## Community Track
-![claritycommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritycommunity.jpg?raw=true)  ![NFTscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTscommunity.jpg?raw=true)  ![SIPscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPscommunity.jpg?raw=true)  ![deficommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/deficommunity.jpg?raw=true)  ![docstranslationcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationcommunity.jpg?raw=true)  ![stackingcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingcommunity.jpg?raw=true)  ![grantscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantscommunity.jpg?raw=true)  ![web3govcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govcommunity.jpg?raw=true)
+##  🔍 Explore
+### Community Track
+
+![claritycommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritycommunity.jpg?raw=true)  ![NFTscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTscommunity.jpg?raw=true)  ![SIPscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPscommunity.jpg?raw=true)  ![deficommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/deficommunity.jpg?raw=true)
+
+
+[Clarity Community](https://twitter.com/clarity_lang)  [NFTs Community](https://discord.gg/nPGNt6eE78)  [SIPs Community](https://forum.stacks.org/t/06-weekly-sip-call-stx-mining-with-mattystx-sip-stacks-improvement-proposals/13478)  [Defi Community](https://discord.gg/RewQBNNhj6)  
+ 
+
+![docstranslationcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationcommunity.jpg?raw=true)  ![stackingcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingcommunity.jpg?raw=true)  ![grantscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantscommunity.jpg?raw=true)  ![web3govcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govcommunity.jpg?raw=true)
+
+ [Translation Community](https://crowdin.com/project/docsstacksco) [Stacking Community](https://discord.gg/yyugHx4Sbg)  [Grants Community](https://grants.stacks.org/)  [Web3Gov Community](https://github.com/stacksgov/pm)
 ## Build Track
-![claritybuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritybuild.jpg?raw=true)  ![NFTsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTsbuild.jpg?raw=true)  ![SIPsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPsbuild.jpg?raw=true)  ![defibuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/defibuild.jpg?raw=true)  ![docstranslationbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationbuild.jpg?raw=true)  ![stackingbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingbuild.jpg?raw=true)  ![grantsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantsbuild.jpg?raw=true)  ![web3govbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govbuild.jpg?raw=true)
+![claritybuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritybuild.jpg?raw=true)  ![NFTsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTsbuild.jpg?raw=true)  ![SIPsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPsbuild.jpg?raw=true)  ![defibuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/defibuild.jpg?raw=true)  
 
+[Clarity Build](https://github.com/stacksgov/residence-program/issues/25#issuecomment-1072339878) [NFTs Build](https://discord.gg/nPGNt6eE78)  [SIPs Build](https://forum.stacks.org/t/06-weekly-sip-call-stx-mining-with-mattystx-sip-stacks-improvement-proposals/13478)  [Defi Build](https://www.stacks.co/blog-categories/defi)
 
+![docstranslationbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationbuild.jpg?raw=true)  ![stackingbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingbuild.jpg?raw=true)  ![grantsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantsbuild.jpg?raw=true)  ![web3govbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govbuild.jpg?raw=true)
+
+[Translation Build](https://crowdin.com/project/docsstacksco) [Stacking Build](https://www.stacks.co/blog-categories/stacking?ref=stacksblog)  [Grants Build](https://grants.stacks.org)  [Web3Gov Build](https://github.com/stacksgov/pm/issues/129)
