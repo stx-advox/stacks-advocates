@@ -33,8 +33,8 @@ The Advocates program is made up of long time community members, passionate cont
 
 ###  🔍 Explore
 ## Community Track
-![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg?raw=true)
+![claritycommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritycommunity.jpg)  ![NFTscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTscommunity.jpg)  ![SIPscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPscommunity.jpg)  ![deficommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/deficommunity.jpg)  ![docstranslationcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationcommunity.jpg)  ![stackingcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingcommunity.jpg)  ![grantscommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantscommunity.jpg)  ![web3govcommunity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govcommunity.jpg)
 ## Build Track
-![clarity.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/clarity.jpg?raw=true)
+![claritybuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/claritybuild.jpg)  ![NFTsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/NFTscommunity.jpg)  ![SIPsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/SIPscommunity.jpg)  ![defibuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/deficommunity.jpg)  ![docstranslationbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/docstranslationcommunity.jpg)  ![stackingbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/stackingcommunity.jpg)  ![grantsbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/grantsbuild.jpg)  ![web3govbuild.jpg](https://github.com/stx-advox/stacks-advocates/blob/main/assets/css/web3govbuild.jpg)
 
 
