@@ -23,7 +23,7 @@ The [Stacks Advox - Sessions](https://discord.com/channels/621759717756370964/87
 - Any blockers?
 - What will happen over the next two weeks?
 
-## SIP Ready Updates
+## SIP Ready Items
 
 See issues with the label `SIP-ready` for more info.
 
