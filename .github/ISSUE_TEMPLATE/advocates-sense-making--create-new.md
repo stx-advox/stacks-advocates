@@ -23,9 +23,9 @@ The [Stacks Advox - Sessions](https://discord.com/channels/621759717756370964/87
 - Any blockers?
 - What will happen over the next two weeks?
 
-## Stacks Governance Lab Updates
+## SIP Ready Updates
 
-See issues with the label `gov-lab` for more info.
+See issues with the label `SIP-ready` for more info.
 
 [https://github.com/stx-advox/stacks-advocates/labels/SIP-ready](https://github.com/stx-advox/stacks-advocates/labels/SIP-ready)
 
