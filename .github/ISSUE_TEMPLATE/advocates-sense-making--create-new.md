@@ -27,34 +27,34 @@ The [Stacks Advox - Sessions](https://discord.com/channels/621759717756370964/87
 
 See issues with the label `gov-lab` for more info.
 
-[https://github.com/stx-advox/stacks-advocates/labels/gov-lab](https://github.com/HaroldDavis3/stacks-advocates/labels/gov-lab)
+[https://github.com/stx-advox/stacks-advocates/labels/SIP-ready](https://github.com/stx-advox/stacks-advocates/labels/SIP-ready)
 
 ## (CFA) Call for Action Items
 
 See issues with the label `mtg-action` for more info.
 
-[https://github.com/stx-advox/stacks-advocates/labels/mtg-action](https://github.com/HaroldDavis3/stacks-advocates/labels/mtg-action)
+[https://github.com/stx-advox/stacks-advocates/labels/mtg-action](https://github.com/stx-advox/stacks-advocates/labels/mtg-action)
 
 ## Sense-Making Insight Items
 
 See issues with the label `mtg-sensemaking` for more info.
 
 
-[https://github.com/stx-advox/stacks-advocates/labels/mtg-sensemaking](https://github.com/HaroldDavis3/stacks-advocates/labels/mtg-sensemaking)
+[https://github.com/stx-advox/stacks-advocates/labels/mtg-sensemaking](https://github.com/stx-advox/stacks-advocates/labels/mtg-sensemaking)
 
 
 ## (CFD) Call for Dialogue Items
 
 See issues with the label `mtg-dialogue` for more info.
 
-[https://github.com/stx-advox/stacks-advocates/labels/mtg-dialogue](https://github.com/HaroldDavis3/stacks-advocates/labels/mtg-dialogue)
+[https://github.com/stx-advox/stacks-advocates/labels/mtg-dialogue](https://github.com/stx-advox/stacks-advocates/labels/mtg-dialogue)
 
 ## (RFC) Request for Comment on smaller issues
 
 See issues with the label `mtg-rfc` for more info.
 
 
-[https://github.com/stx-advox/stacks-advocates/labels/mtg-rfc](https://github.com/HaroldDavis3/stacks-advocates/labels/mtg-rfc)
+[https://github.com/stx-advox/stacks-advocates/labels/mtg-rfc](https://github.com/stx-advox/stacks-advocates/labels/mtg-rfc)
 
 
 Feel free to list out and add additional items below!
